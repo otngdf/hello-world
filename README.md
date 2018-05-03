@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-Tanulom a git-et.
+
+Megtanultam a git-et.
